@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/2ead113c-c23f-4c0a-9c10-d4b2797ee330)
+
+
+
+
+
 # Weighted Competitive Equilibrium (Fisher Market)
 
 A Python implementation of the **Budget-Weighted Competitive** algorithm using [CVXPY](https://www.cvxpy.org/) and NumPy.  It computes equilibrium allocations and prices for divisible goods given agents' valuations and budgets by maximizing the weighted Nash welfare objective.
